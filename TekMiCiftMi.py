@@ -11,3 +11,8 @@ if sayi % 2 == 0:
     print("çift")
 else:
     print("tek")
+
+"""
+bu yorum
+çok satırlı bir yorumdur
+"""
